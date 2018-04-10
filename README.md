@@ -1,6 +1,6 @@
 Hey Fam,
 
-So we just a launched a [demo](app.quantstamp.com) version of our smart contract audit platform. Later, this version will be hooked into our decentralized protocol. Bugs do happen, unfortunately, and if you encounter a bug of any kind you can report it here as an issue.
+So we just a launched a [demo](https://app.quantstamp.com) version of our smart contract audit platform. Later, this version will be hooked into our decentralized protocol. Bugs do happen, unfortunately, and if you encounter a bug of any kind you can report it here as an issue.
 
 We try to collect as many issues in Telegram and try to work through every email as quickly as possible, sometimes, however, factors slow us down and we apologize. If you require quicker service for your issue, please submit your bug as an issue [here](https://github.com/quantstamp/quantstamp_support/issues/new) and an issue request will be seen by one of our web devs directly.
 
